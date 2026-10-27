@@ -65,7 +65,10 @@ public class Baseclass {
 				((RemoteWebElement)element).getId(), "endX", endx, "endY", endy));
 	}
 	
-	
+	private void devCode() {
+		System.out.println("This is Developer code");
+		System.out.println("Developer work completed");
+	}
 	
 	
 	
