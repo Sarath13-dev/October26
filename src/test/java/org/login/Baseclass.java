@@ -65,7 +65,9 @@ public class Baseclass {
 				((RemoteWebElement)element).getId(), "endX", endx, "endY", endy));
 	}
 	
-	
+	private void tc02() {
+		System.out.println("Tester");
+	}
 	
 	
 	
